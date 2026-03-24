@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://your-cdn-link/devos-banner.png" alt="DevOS Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/DevOS-App/repository-template/main/assets/devos-banner.jpg" width="100%" />
 </p>
 
-<h1 align="center">🚀 Built with DevOS</h1>
+<h1 align="center">DevOS</h1>
 
 <p align="center">
-  Code. Run. Deploy. Instantly.
+  Code in the cloud. Build, run, and deploy instantly.
 </p>
 
 ---
